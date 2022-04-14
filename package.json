@@ -1,7 +1,7 @@
 {
 	"name": "kodecamp-task-3",
 	"version": "0.1.0",
-	"homepage": "http://eunit99.github.io/kodecamp-task-3/"
+	"homepage": "http://eunit99.github.io/kodecamp-task-3/",
   "private": true,
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.16.4",
